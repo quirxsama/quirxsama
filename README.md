@@ -1,21 +1,60 @@
-# 💫 About Me:
-🎓 Im a Student who Loves Coding<br>🧑‍💻 I like learning new things and improve myself.<br>🌆 If you want to help me for anything Contact Me.<br>🇹🇷 I live in Türkiye/Antalya<br>📔 I like to read Russian Novels.<br>🏯 I like watching anime and reading Manga.<br>🌟 My favorite anime is One Piece
+# 🖥️ Kaan — Let the Code Talk
 
+> "Software isn’t built with words. It’s built with decisions, discipline, and damn good syntax."
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/quirxsama.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quirx.kaan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/quirxkaan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@quirxkaan) 
-
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=quirxsama&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=quirxsama&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quirxsama&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm **Kaan** — a Junior developer who doesn’t chase trends, just builds solid, scalable, and sharp software. No bloated words. No unnecessary complexity. Just clean architecture, modular code, and real solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=quirxsama&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧠 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Frontend**: React · Next.js · Vue.js · HTML · CSS · Tailwind CSS
+- **Backend**: Node.js · Python · Ruby · PHP
+- **Languages**: JavaScript (ES6+) · TypeScript · Python · Ruby · Bash
+
+---
+## 🛠️ Tools I Actually Use
+
+```bash
+Editor : VSCode  
+OS     : GNOME on Fedora Workstation
+Shell  : Zsh
+```
+---
+## 💡 Development Principles
+
+- 🚫 No spaghetti. Ever.
+    
+- 🧩 Component-first thinking. Code should scale before it grows.
+    
+- 📐 Simplicity is a feature — I write code that **reads as well as it runs**.
+    
+- 👁️ When style stands on solid ground, every user is drawn in.
+
+> "Good code is quiet. It doesn’t shout — it works."  
+
+---
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=quirxsama&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=quirxsama&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&show_icons=true)
+
+---
+## 🌍 Connect With Me
+
+Feel free to reach out on any of these platforms.
+
+[![X](https://img.shields.io/badge/X-%40quirxkaan-gray?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://x.com/quirxkaan)  
+[![Instagram](https://img.shields.io/badge/Instagram-%40quirx.kaan-gray?style=for-the-badge&logo=instagram&logoColor=white&labelColor=e30079)](https://www.instagram.com/quirx.kaan/)  
+[![YouTube](https://img.shields.io/badge/YouTube-%40quirxkaan-gray?style=for-the-badge&logo=youtube&logoColor=white&labelColor=darkred)](https://www.youtube.com/@quirxkaan)  
+[![BlueSky](https://img.shields.io/badge/BlueSky-%40quirxsama.bsky.social-lightblue?style=for-the-badge&logo=bluesky&logoColor=white&color=gray&labelColor=blue)](https://bsky.app/profile/quirxsama.bsky.social)  
+![Discord](https://img.shields.io/badge/Discord-%40quirx.kaan-blue?style=for-the-badge&logo=discord&logoColor=white&color=gray&labelColor=5865f2)
+
+---
+## The Father of My Ideas: Atatürk
+| ![](https://i.imgur.com/xIOBOSS.jpeg)                                             | ![](https://i.imgur.com/ASG6XwH.jpeg)                                             | ![](https://i.imgur.com/Wvt63XC.jpeg)                                        |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ![](https://i.pinimg.com/736x/fb/5a/bc/fb5abcfe5efa70fded7da2e2635290ed.jpg)      | ![](https://i.pinimg.com/736x/2b/db/72/2bdb72685858ab866c5499558230e36a.jpg)      | ![](https://i.pinimg.com/736x/14/f1/97/14f197ea6d1d1f2de20ee836999c8fd4.jpg) |
+| ![](https://ataturk-resimleri.com/wp-content/uploads/2024/07/463-v2-709x1024.jpg) | ![](https://ataturk-resimleri.com/wp-content/uploads/2024/07/654-v2-724x1024.jpg) | ![](https://ataturk-resimleri.com/wp-content/uploads/2024/07/431-v2.jpg)     |
+
+---
+#### Scroll down. Repos speak louder than bios. ⬇️
