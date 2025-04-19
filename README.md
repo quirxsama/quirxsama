@@ -50,7 +50,7 @@ Feel free to reach out on any of these platforms.
 ![Discord](https://img.shields.io/badge/Discord-%40quirx.kaan-blue?style=for-the-badge&logo=discord&logoColor=white&color=gray&labelColor=5865f2)
 
 ---
-## The Father of My Ideas: Atatürk
+## 🇹🇷 The Father of My Ideas: Atatürk
 | ![](https://i.imgur.com/xIOBOSS.jpeg)                                             | ![](https://i.imgur.com/ASG6XwH.jpeg)                                             | ![](https://i.imgur.com/Wvt63XC.jpeg)                                        |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ![](https://i.pinimg.com/736x/fb/5a/bc/fb5abcfe5efa70fded7da2e2635290ed.jpg)      | ![](https://i.pinimg.com/736x/2b/db/72/2bdb72685858ab866c5499558230e36a.jpg)      | ![](https://i.pinimg.com/736x/14/f1/97/14f197ea6d1d1f2de20ee836999c8fd4.jpg) |
