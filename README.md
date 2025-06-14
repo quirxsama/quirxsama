@@ -4,6 +4,8 @@
 
 I'm **Kaan** — a Junior developer who doesn’t chase trends, just builds solid, scalable, and sharp software. No bloated words. No unnecessary complexity. Just clean architecture, modular code, and real solutions.
 
+> "Real obsession is about finding your passion." 
+
 ---
 ## 🧠 Tech Stack
 
@@ -12,11 +14,11 @@ I'm **Kaan** — a Junior developer who doesn’t chase trends, just builds soli
 - **Languages**: JavaScript (ES6+) · TypeScript · Python · Ruby · Bash
 
 ---
-## 🛠️ Tools I Actually Use
+## 🛠️ My Workspace
 
 ```bash
-Editor : VSCode  
-OS     : GNOME on Fedora Workstation
+Editor : VSCodium  
+OS     : GNOME on Ubuntu 25.04
 Shell  : Zsh
 ```
 ---
