@@ -56,7 +56,6 @@ Feel free to reach out on any of these platforms.
 | ![](https://i.imgur.com/xIOBOSS.jpeg)                                             | ![](https://i.imgur.com/ASG6XwH.jpeg)                                             | ![](https://i.imgur.com/Wvt63XC.jpeg)                                        |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ![](https://i.pinimg.com/736x/fb/5a/bc/fb5abcfe5efa70fded7da2e2635290ed.jpg)      | ![](https://i.pinimg.com/736x/2b/db/72/2bdb72685858ab866c5499558230e36a.jpg)      | ![](https://i.pinimg.com/736x/14/f1/97/14f197ea6d1d1f2de20ee836999c8fd4.jpg) |
-| ![](https://ataturk-resimleri.com/wp-content/uploads/2024/07/463-v2-709x1024.jpg) | ![](https://ataturk-resimleri.com/wp-content/uploads/2024/07/654-v2-724x1024.jpg) | ![](https://ataturk-resimleri.com/wp-content/uploads/2024/07/431-v2.jpg)     |
 
 ---
 #### Scroll down. Repos speak louder than bios. ⬇️
