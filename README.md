@@ -18,7 +18,7 @@ I'm **Kaan** — a Junior developer who doesn’t chase trends, just builds soli
 
 ```bash
 Editor : VSCodium  
-OS     : GNOME on Ubuntu 25.04
+OS     : GNOME on Fedora
 Shell  : Zsh
 ```
 ---
