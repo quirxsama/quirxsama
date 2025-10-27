@@ -10,7 +10,7 @@ I'm **Kaan** — a Junior developer who doesn’t chase trends, just builds soli
 ## 🧠 Tech Stack
 
 - **Frontend**: React · Next.js · Vue.js · HTML · CSS · Tailwind CSS
-- **Backend**: Node.js · Python · Ruby · PHP
+- **Backend**: Node.js · Express.js · Python · Ruby · PHP
 - **Languages**: JavaScript (ES6+) · TypeScript · Python · Ruby · Bash
 
 ---
