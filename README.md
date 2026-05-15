@@ -36,9 +36,9 @@ Shell  : Zsh
 
 ---
 ## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=quirxsama&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quirxsama&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=quirxsama&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=quirxsama&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=quirxsama&layout=compact&theme=github_dark)
 
 ---
 ## 🌍 Connect With Me
